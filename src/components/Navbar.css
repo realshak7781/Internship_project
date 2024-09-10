@@ -1,0 +1,33 @@
+/* General navbar styling */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #ffffff;
+    color: #111517;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Dark mode styles */
+  .dark-mode .navbar {
+    background-color: #2b3945;
+    color: #ffffff;
+  }
+  
+  .dark-mode-toggle {
+    cursor: pointer;
+    font-weight: bold;
+    color: inherit;
+  }
+  
+  .dark-mode-toggle:hover {
+    text-decoration: underline;
+  }
+  
+  /* Apply dark mode to the body */
+  body.dark-mode {
+    background-color: #202c37;
+    color: #ffffff;
+  }
+  
