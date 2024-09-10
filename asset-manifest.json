@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Internship_project/static/css/main.2f87ae92.css",
+    "main.js": "/Internship_project/static/js/main.df4e0c3b.js",
+    "index.html": "/Internship_project/index.html",
+    "main.2f87ae92.css.map": "/Internship_project/static/css/main.2f87ae92.css.map",
+    "main.df4e0c3b.js.map": "/Internship_project/static/js/main.df4e0c3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f87ae92.css",
+    "static/js/main.df4e0c3b.js"
+  ]
+}
